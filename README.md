@@ -11,7 +11,7 @@ Configs for blog powered by hexo and hext NexT theme.
 * make simlink at the direcetories using command below.
 
 ```
-ln -sf ~/blog/configs/theme.config ~/blog/theme/hexo-theme-next/_config.yml
+ln -sf ~/blog/configs/theme.config ~/blog/themes/hexo-theme-next/_config.yml
 ln -sf ~/blog/configs/hexo.config ~/blog/hexo/norang.io/_config.yml
 ```
 
